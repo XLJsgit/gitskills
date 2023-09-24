@@ -3,4 +3,8 @@ hello word
 creating a new branch is fast & simple
 creating dev diff from main
 finished work
-dev1 finished
+<<<<<<< HEAD
+dev2 finished
+=======
+dev2 finished
+>>>>>>> 4da90cf4f38c5a7b97b1daa8fdce07b4c040e444
